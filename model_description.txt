@@ -1,1 +1,3 @@
 The model used is a pre-trained GPT2 Language model. It has the best accuracy as comapared to LSTM, Smoothed word Unigram and Bigram models. 
+model explanation video: https://drive.google.com/file/d/13lcy1qZCR_RlmeGch8MUhxonkGENp2Kq/view?usp=share_link
+for detail explanation of model check this YouTube video: https://www.youtube.com/watch?v=Zpu4mubO_qE&ab_channel=PriyaBhatia
